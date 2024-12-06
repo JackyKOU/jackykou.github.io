@@ -1,6 +1,13 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Jacky's' Blog",
+    "displayTitle":"Jacky Tech",
+    "subTitle":"尊严只在显卡之上,真理只在算力之内",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "homeUrl":"https://jackykou.github.io/",
+    "email":"jacknihao113@gmail.com",
+    "startSite":"12/06/2024",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "bottomText":"本博客所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明来自 JackyKou！",
     "GMEEK_VERSION":"last"
 }
